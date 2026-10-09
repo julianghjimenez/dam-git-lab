@@ -1,5 +1,10 @@
 # DAM Git Lab
 
-## Entornos de Desarrollo
+## Descripción
 
-### Sistemas operativo (linux)
+Repositorio de prácticas de Git para Desarrollo de Aplicaciones Multiplataforma.
+
+## Autor
+
+Julián Gabriel Hernández Jiménez
+
